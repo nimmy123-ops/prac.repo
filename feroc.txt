@@ -1,2 +1,3 @@
 hello how are you
 to update a file
+to create a conflict file
