@@ -4,3 +4,5 @@ to update a file
 aasjjbfkjdngkdfgnkjdfbkdsnv
 to create a conflict file
 
+updating cod eto fix the issue
+git status
