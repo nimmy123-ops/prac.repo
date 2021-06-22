@@ -1,1 +1,1 @@
-my practice file
+print ("my practice file")
